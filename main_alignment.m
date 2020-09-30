@@ -18,7 +18,7 @@ addpath('C:\Users\jorge\OneDrive\Escritorio\thesis upload\my_LSTM_alignment')
 
 monkey_1 = 'Chewie_CO_CS_2015-03-19'; 
 monkey_2 = 'Chewie_CO_CS_2015-03-12';
-input_type = 'pca'; % 'pca' or 'isomap'
+input_type = 'pca';
 do_iso = 'no';
 trials_per_target = 40;
 selection = 'M1';
